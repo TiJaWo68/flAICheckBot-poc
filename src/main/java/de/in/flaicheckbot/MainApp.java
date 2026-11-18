@@ -375,7 +375,7 @@ public class MainApp {
 			helpMenu.addSeparator();
 
 			AboutActionWrapper aboutAction = new AboutActionWrapper(frame, "TiJaWo68",
-					"https://github.com/TiJaWo68/flAICheckBot", "flAiCheckBot", 2025, GROUPID, ARTIFACTID,
+					"https://github.com/TiJaWo68/flAICheckBot-poc", "flAiCheckBot", 2025, GROUPID, ARTIFACTID,
 					frame.getIconImage());
 			javax.swing.JMenuItem aboutItem = new javax.swing.JMenuItem(aboutAction);
 			aboutItem.setText("Über flAiCheckBot");
